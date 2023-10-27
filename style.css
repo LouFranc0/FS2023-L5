@@ -1,0 +1,29 @@
+header {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img { 
+    height: 50px;
+}
+.titolo {
+    padding: 32px 16px
+}
+.titolo section {
+    text-align: center;
+}
+.titolo section h1 {
+    color: #25a2c3;
+    font-size: 32px;
+    font-weight: bold;
+}
+.titolo section p {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.titolo section a {
+
+}
